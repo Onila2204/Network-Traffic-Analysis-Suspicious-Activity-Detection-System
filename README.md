@@ -164,5 +164,4 @@ NETSENTRY/
 
 ## License
 
-No license has been specified yet. Add a license file if you want to
-define how others may use, modify, and distribute this project.
+No license has been specified yet. 
